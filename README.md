@@ -6,28 +6,6 @@ This document is established as of the 2015/2016 academic session of Multimedia 
 
 ## Regulation 1: General Information
 
-##### 1. Name of Society:
-IT Society, Multimedia University (Cyberjaya Campus)
-
-##### 2. Address:
-```
-IT Society,
-Multimedia University,
-Persiaran Multimedia,
-63100 Cyberjaya,
-Selangor Darul Ehsan.
-```
-##### 3. Vision
-To empower students as active practitioners of information technology and to represent all FCI students.
-
-##### 4. Objectives
-  1. To cultivate a hacking and startup culture in the campus.
-  2. To better equip students with the IT skills required for the job market of today and tomorrow.
-  3. To be the platform for students to connect with the industry at large.
-  4. To act as a bridge between FCI and its students.
-  5. To fight for the welfare and interests of FCI students.
-
-
 ## Regulation 2: Definition of Membership in IT Society
 
 Members of IT Society are defined as:
@@ -37,29 +15,29 @@ Members of IT Society are defined as:
 ## Regulation 3: Responsibilities of IT Society Members
 
 ## Regulation 4: Organizational Structure
-* President - Anonoz Chong
-* Vice President 1 - Shaun Goh
-* Vice President 2 - Angeline Cheah
-* Secretary - Lee Zhen Yong
-* Treasurer - Joey Cheng
-* Head of IT Services Division - Hii Yong Lian
-  * -- Assistant - Jack Goh
-* Head of Outreach and Awareness - Lee Zhen Yong
-  * -- Assistant - Anonoz
-* Head of Skills Development - Joey Cheng
-  * -- Assistant - Asyraf
-* Head of Faculty Engagement - Khor Kia Kin
-  * -- Assistant - Shaun Goh
+President 		         - Anonoz Chong
+Vice President 1     - Shaun Goh
+Vice President 2     - Angeline Mashuri Cheah
+Secretary 		         - Lee Zhen Yong
+Treasurer	           - Joey Cheng
+Head of IT Services Division	 	        - Hii Yong Lian
+Assistant of IT Services Division  	   - Jack Goh
+Head of Outreach and Awareness 	       - Lee Zhen Yong
+Assistant of Outreach and Awareness    - Anonoz
+Head of Skills Development 		          - Joey Cheng
+Assistant of Skills Development	       - Asyraf
+Head of Faculty Engagement 	           - Khor Kia Kin
+Assistant of Faculty Engagement	       - Shaun Goh
 
 ## Regulation 5: Responsibilities of Executive Council Members
 
 ## Regulation 6: Responsibilities of Divisional Committee Members
 
 ## Regulation 7: Responsibilities of Event Committee Members
-1. Recruit additional committee members
-2. Plan and carry out event activities
-3. In charge of sponsorship
-4. Ensure event held align with society objective
+* Recruit additional committee members
+* Plan and carry out event activities
+* In charge of sponsorship
+* Ensure event held align with society objective
 
 ## Regulation 8: Meetings
 
